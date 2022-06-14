@@ -36,18 +36,10 @@ os.system("figlet DOS Attack")
 
 print('''\nRihan DOS Tools''')
 
-print(upurple+'''\n===================================================================================================='''+color_off)
-
-print(bgreen+      							   '''\nCEO- 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 𝙷𝚎𝚕𝚙 𝙲𝚎𝚗𝚝𝚛𝚎    '''                                   +color_off)
-print(bred+'''                 	CEO- Dɑrk 420 Spɑmming Teɑm     '''                              +color_off)
-print(bgreen+'''                       	 Devoloped By: 𝙍𝙞𝙝𝙖𝙣 𝘼𝙝𝙢𝙚𝙙            '''                            +color_off)
-
-print(on_purple+'''						Version : 1.1.7'''+color_off)
-
-print(upurple+'''\n================================================================'''+color_off)
-
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
+
+os.system("clear")
 
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
