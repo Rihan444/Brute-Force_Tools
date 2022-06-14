@@ -22,7 +22,6 @@ os.system("figlet DDos Attack")
 print
 print "Author   : Rihan Ahmed"
 print "Group  :https://www.facebook.com/groups/3749151271810746/?ref=share"
-print "github   :https://github.com/Rihan444 
 print "Facebook :https://www.facebook.com/white.hat.hacker.Rihan "
 print
 ip = raw_input("IP Target : ")
