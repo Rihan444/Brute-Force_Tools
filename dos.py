@@ -15,8 +15,8 @@ os.system("figlet DOS Attack")
 
 print('''\nRihan DOS Tools''')
 
-(input(igreen+'''Enter Website Link: '''))
-(input(iblue+'''\nEnter Port	  : '''))
+ip = raw_input("IP Target : ")
+port = input("Port       : ")
 
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
